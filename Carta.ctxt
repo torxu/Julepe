@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=valorCarta\ paloCarta
+comment0.target=Carta(int,\ int)
+comment1.params=
+comment1.target=int\ getValor()
+comment2.params=
+comment2.target=int\ getPalo()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=cartaAComparar\ paloQuePinta
+comment4.target=boolean\ ganaA(Carta,\ int)
+comment5.params=
+comment5.target=int\ getPosicionGanadora()
+numComments=6

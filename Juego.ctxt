@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numeroJugadores\ nombreHumano
+comment0.target=Juego(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ repartir()
+comment2.params=nombreJugador
+comment2.target=void\ hacerTrampasYVerCartasDeJugador(java.lang.String)
+comment3.params=
+comment3.target=void\ verCartasJugadorHumano()
+numComments=4

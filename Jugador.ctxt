@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Jugador(java.lang.String)
+comment1.params=cartaRecibida
+comment1.target=void\ recibirCarta(Carta)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=void\ verCartasJugador()
+comment4.params=nombreCarta
+comment4.target=Carta\ tirarCarta(java.lang.String)
+comment5.params=
+comment5.target=Carta\ tirarCartaAleatoria()
+numComments=6

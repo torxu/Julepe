@@ -1,4 +1,10 @@
 #BlueJ class context
 comment0.params=numeroJugadoresQueTiran\ paloQuePinta
 comment0.target=Baza(int,\ int)
-numComments=1
+comment1.params=cartaTirada\ nombreJugador
+comment1.target=void\ addCarta(Carta,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPaloPrimeraCartaDeLaBaza()
+comment3.params=
+comment3.target=Carta\ cartaQueVaGanandoLaBaza()
+numComments=4
